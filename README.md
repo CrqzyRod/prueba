@@ -1,2 +1,2 @@
 # Este soy yo
-![Perrowaton]{perro.jpg}
+![Perrowaton](perro.jpg)
