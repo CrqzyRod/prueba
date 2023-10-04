@@ -1,2 +1,2 @@
 # Este soy yo
-/crqzyrod/prueba/perro.jpg
+./crqzyrod/prueba/perro.jpg
